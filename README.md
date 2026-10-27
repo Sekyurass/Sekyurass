@@ -29,4 +29,4 @@ Fokus saya di **web development**: membangun antarmuka yang rapi, jelas, dan mud
 - Email: [segara@student.undiksha.ac.id](mailto:segara@student.undiksha.ac.id)
 - GitHub: [github.com/Sekyurass](https://github.com/Sekyurass)
 
-Terima kasih sudah mampir — silakan lihat repo di bawah, atau hubungi saya jika ingin berkolaborasi.
+Terima kasih sudah mampir - silakan lihat repo di bawah, atau hubungi saya jika ingin berkolaborasi.

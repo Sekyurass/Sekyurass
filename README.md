@@ -1,21 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,100:58A6FF&text=I%20Made%20Gede%20Segara&fontColor=FFFFFF&fontSize=40&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20Mahasiswa%20Undiksha&descAlignY=58&descSize=16" alt="banner" />
-
-<a href="https://github.com/Sekyurass">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Membangun+antarmuka+yang+rapi+dan+jelas;Frontend+%26+full-stack+dengan+TypeScript;Suka+detail+kecil%3A+tipografi%2C+spasi%2C+alur;Mahasiswa+aktif+%C2%B7+Bali%2C+Indonesia" alt="typing" />
-</a>
-
-<br><br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-sekyurass.github.io-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0D1117)](https://sekyurass.github.io/Portofolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Lihat_Portofolio-58A6FF?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117)](https://sekyurass.github.io/Portofolio/)
 [![Email](https://img.shields.io/badge/Email-Hubungi_saya-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:segara@student.undiksha.ac.id)
 [![GitHub](https://img.shields.io/badge/GitHub-Sekyurass-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Sekyurass)
 
-<img src="https://komarev.com/ghpvc/?username=Sekyurass&label=Profile%20views&color=58A6FF&style=flat-square&labelColor=0D1117" alt="profile views" />
+<br>
+
+<img src="https://hits.sh/github.com/Sekyurass.svg?style=for-the-badge&label=Profile%20views&color=58A6FF&labelColor=0D1117" alt="profile views" />
 
 </div>
-
 ---
 
 ## 👋 Tentang saya

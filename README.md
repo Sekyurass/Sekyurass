@@ -1,6 +1,6 @@
 # Halo, saya Segara 👋
 
-Saya **I Made Gede Segara** — alumni Universitas Pendidikan Ganesha.  
+Saya **I Made Gede Segara** - mahasiswa aktif Universitas Pendidikan Ganesha.  
 Fokus saya di **web development**: membangun antarmuka yang rapi, jelas, dan mudah dipakai.
 
 ---

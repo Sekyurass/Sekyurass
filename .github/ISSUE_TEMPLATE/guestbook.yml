@@ -1,0 +1,20 @@
+name: Guestbook
+description: Tinggalkan pesan singkat di profil saya
+title: "[Guestbook] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Pesanmu akan tampil di profil setelah saya setujui. Tulis dengan sopan, maksimal 140 karakter.
+  - type: input
+    id: message
+    attributes:
+      label: Pesan
+      description: Maksimal 140 karakter.
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Nama (opsional)
+      description: Kalau kosong, yang tampil adalah username GitHub kamu.

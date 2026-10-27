@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="54" viewBox="0 0 220 54" role="img" aria-label="Lihat Portofolio">
+<defs>
+  <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="220" y2="0">
+    <stop offset="0" stop-color="#58A6FF"/><stop offset="0.5" stop-color="#A371F7"/><stop offset="1" stop-color="#58A6FF"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-220 0;220 0;-220 0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+  <linearGradient id="ic" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#58A6FF"/><stop offset="1" stop-color="#A371F7"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="218" height="52" rx="26.0" fill="#0D1117" stroke="url(#g)" stroke-width="1.6"/>
+<rect x="8" y="8" width="38" height="38" rx="19" fill="url(#ic)"/>
+<g transform="translate(15,15)"><circle cx="12" cy="12" r="9" fill="none" stroke="#fff" stroke-width="1.8"/><ellipse cx="12" cy="12" rx="4" ry="9" fill="none" stroke="#fff" stroke-width="1.6"/><path d="M3 12h18" stroke="#fff" stroke-width="1.6"/></g>
+<text x="58" y="23" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" letter-spacing="2" fill="#8B949E">PORTFOLIO</text>
+<text x="58" y="40" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#E6EDF3">Lihat Portofolio</text>
+</svg>

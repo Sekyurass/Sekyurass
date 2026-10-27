@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110" role="img" aria-label="Animasi snake dari grafik kontribusi">
+<rect x="0.5" y="0.5" width="899" height="109" rx="12" fill="#0B0F14" stroke="#30363D"/>
+<text x="450" y="52" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,monospace" font-size="14" fill="#58A6FF">snake sedang disiapkan</text>
+<text x="450" y="76" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E">jalankan workflow "Snake" sekali dari tab Actions untuk membuatnya</text>
+</svg>

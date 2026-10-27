@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-label="Terima kasih sudah mampir">
+<defs><clipPath id="r"><rect width="900" height="120" rx="14"/></clipPath></defs>
+<g clip-path="url(#r)">
+<rect width="900" height="120" fill="#0D1117"/>
+<path d="M0 78 C75.0 68 75.0 68 150.0 78 S225.0 88 300 78 C375.0 68 375.0 68 450.0 78 S525.0 88 600 78 C675.0 68 675.0 68 750.0 78 S825.0 88 900 78 C975.0 68 975.0 68 1050.0 78 S1125.0 88 1200 78 C1275.0 68 1275.0 68 1350.0 78 S1425.0 88 1500 78 C1575.0 68 1575.0 68 1650.0 78 S1725.0 88 1800 78 V120 H0 Z" fill="#A371F7" opacity="0.25"><animateTransform attributeName="transform" type="translate" from="0 0" to="-300 0" dur="9s" repeatCount="indefinite"/></path>
+<path d="M0 86 C75.0 78 75.0 78 150.0 86 S225.0 94 300 86 C375.0 78 375.0 78 450.0 86 S525.0 94 600 86 C675.0 78 675.0 78 750.0 86 S825.0 94 900 86 C975.0 78 975.0 78 1050.0 86 S1125.0 94 1200 86 C1275.0 78 1275.0 78 1350.0 86 S1425.0 94 1500 86 C1575.0 78 1575.0 78 1650.0 86 S1725.0 94 1800 86 V120 H0 Z" fill="#58A6FF" opacity="0.35"><animateTransform attributeName="transform" type="translate" from="0 0" to="-300 0" dur="6s" repeatCount="indefinite"/></path>
+<text x="450" y="48" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" letter-spacing="4" fill="#C9D1D9">TERIMA KASIH SUDAH MAMPIR</text>
+</g>
+<rect x="0.5" y="0.5" width="899" height="119" rx="14" fill="none" stroke="#30363D"/>
+</svg>

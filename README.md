@@ -32,7 +32,15 @@
   <a href="https://github.com/Sekyurass/Portofolio"><img src="assets/card-portofolio.svg" alt="Portofolio" width="32%" /></a>
 </p>
 
-<p><sub>Demo: <a href="https://catatku-eta.vercel.app">catatku</a> · <a href="https://hmsdp.me">attendance system</a> · <a href="https://sekyurass.github.io/Portofolio/">Portofolio</a></sub></p>
+<p>
+  <sub>
+    Demo:
+    <a href="https://catatku-eta.vercel.app">catatku</a> ·
+    <a href="https://hmsdp.me">attendance</a> ·
+    <a href="https://sekyurass.github.io/Portofolio/">Portofolio</a> ·
+    <a href="https://github.com/Sekyurass/segara-notes">segara-notes</a> (MVP Notion-like)
+  </sub>
+</p>
 
 <p><img src="assets/divider.svg" alt="" width="100%" /></p>
 
